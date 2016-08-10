@@ -12,5 +12,9 @@ color:
     - '#2980B9'
 layout_spectrum: 0.7367055839858949
 name: Impact 72
+navigation:
+  - name: The 72 Expression
+    id: 1f7c62a8-7bf3-4e4d-ba91-8177a45240fd
+    type: content
 title: College Student Missions Initiative
 description: We change the world in Jesus' Name
