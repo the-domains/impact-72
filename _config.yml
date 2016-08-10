@@ -1,0 +1,14 @@
+layout_spectrum: 0.7367055839858949
+typography_spectrum: 0.6600778119172901
+color:
+  brandStrength: 0.16916807414963841
+  lightness: 0.11721031367778778
+  saturation: 0.21228523482568562
+  rhythmicContrast: 0.4455830764491111
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Impact 72
